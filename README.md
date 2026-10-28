@@ -24,5 +24,5 @@
 <img width="570" height="366" alt="Screenshot 2026-10-28 152226" src="https://github.com/user-attachments/assets/2cc0d477-fa54-4577-aa82-62fa647e527d" />
 
  
- Để thêm tài khoản test mới vào database, thầy/cô có thể chạy dòng dưới đây:
+- Để thêm tài khoản test mới vào database, thầy/cô có thể chạy dòng dưới đây:
 -- INSERT INTO TaiKhoan (TenDangNhap, MatKhau, HoTen) VALUES ('test', '123', N'Người Dùng Mới');
